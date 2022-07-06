@@ -6,6 +6,9 @@ Integrantes:
 - Juan Miguel Osorio Arroyave.
 - Anye Daniela Condiza Quintero.
 
+Tecnología en Análisis y Desarrollo de Sistemas de Información
+Ficha: 2251848
+
 Contenido:
 - 2-PT-ERS-01-EspecificaciónDeRequisitosDeSoftware.docx
 - 3-Informe_General_Del_Sistema.docx
